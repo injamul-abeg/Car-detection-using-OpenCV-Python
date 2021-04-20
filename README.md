@@ -1,2 +1,2 @@
 # Car-Detection Using OpenCV Python
- Car detection using OpenCV Python
+ Real-time car detection using OpenCV Python
